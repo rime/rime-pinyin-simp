@@ -2,7 +2,7 @@
 
 配方： ℞ **pinyin-simp**
 
-[Rime](http://rime.im) 袖珍简化字拼音輸入方案
+[Rime](https://rime.im) 袖珍简化字拼音輸入方案
 
 ## 安裝
 
